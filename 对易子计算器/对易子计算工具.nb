@@ -904,7 +904,7 @@ Cell[BoxData[{
   "]"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"expr2", "=", 
-   RowBox[{"expr1", "//.", "rule1"}]}], "\[IndentingNewLine]"}], "\n", 
+   RowBox[{"expr1", "//.", "rule1"}]}], "\n"}], "\[IndentingNewLine]", 
  RowBox[{"Print", "[", "\"\<\:6574\:7406\:5982\:4e0b\:ff1a\>\"", "]"}], "\[IndentingNewLine]", 
  RowBox[{"factorByT", "[", "expr2", "]"}], "\[IndentingNewLine]"}], "Input",
  CellChangeTimes->{{3.9829147416132507`*^9, 3.9829147920549393`*^9}, {
@@ -1169,10 +1169,12 @@ Cell[41157, 982, 1206, 18, 35, "Output",ExpressionUUID->"94103a2e-b0cf-cf41-a53d
 Cell[42366, 1002, 1277, 19, 24, "Print",ExpressionUUID->"901e6b19-adce-0f4c-8bf6-7c5a34506b3a"],
 Cell[43646, 1023, 1883, 43, 35, "Output",ExpressionUUID->"c241dabe-d94a-9041-bc94-c9203e4da0b0"],
 Cell[45532, 1068, 1265, 19, 24, "Print",ExpressionUUID->"09cbcd97-03e4-2140-b96d-42c441eef093"],
-Cell[46800, 1089, 1750, 39, 55, "Output",ExpressionUUID->"ef4a2d60-9c32-7f47-b479-dc59611fe59e"]
+Cell[46800, 1089, 1750, 39, 37, "Output",ExpressionUUID->"ef4a2d60-9c32-7f47-b479-dc59611fe59e"]
 }, Open  ]]
 }, Open  ]]
 }
 ]
 *)
+
+(* End of internal cache information *)
 
